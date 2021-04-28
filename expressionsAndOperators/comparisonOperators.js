@@ -23,8 +23,8 @@ console.log(3 <= 2);
 
 // 'and' operator
 
-console.log(2 && 3);
+2 && 3;
 
 //or operator
 
-2 || 3
+2 || 3;
